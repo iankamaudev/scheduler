@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "marie_davis",
+        "profileImage": "../assets/images/img1.jpg"
+      },
+      {
+        "id": 2,
+        "username": "john_smith",
+        "profileImage": "../assets/images/img2.jpg"
+      },
+      {
+        "id": 3,
+        "username": "emma_jones",
+        "profileImage": "../assets/images/img3.jpg"
+      },
+      {
+        "id": 4,
+        "username": "william_carter",
+        "profileImage": "../assets/images/img4.jpg"
+      },
+      {
+        "id": 5,
+        "username": "olivia_jackson",
+        "profileImage": "../assets/images/img5.jpg"
+      }
+    ]
+  }
+  
